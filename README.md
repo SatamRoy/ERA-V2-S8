@@ -35,7 +35,6 @@ Based on the analysis of these 3 models, here is a comparison:
 ![Group Normalization Mis-classified Images](image-3.png)
 
 Following is the comparison of all 3 models Training Accuracies.
-
-
+![Model comparison ](comp.png)
 
 In **conclusion**, the Group Normalization model appears to perform the best among the three models based on the provided data. 
