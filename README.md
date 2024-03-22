@@ -15,6 +15,8 @@ The following is the comparison of the models:
 | Number of Epochs    | 20| 20 | 20 |
 |Training Accuracy	|75.50	|61.69|76.91|
 Test Accuracy|75.89	|63.28	|77.41|
+
+
 Based on the analysis of these 3 models, here is a comparison:
 1.	**Batch Normalization**: *This technique normalizes the inputs across the mini-batch.* The test accuracy is slightly higher than the training accuracy, indicating a good fit to the data without overfitting. This suggests that batch normalization has helped the model generalize well to unseen data.
 
